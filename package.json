@@ -1,0 +1,20 @@
+{
+  "name": "randommessagegenerator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RandomMessageGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wes-Coburn/RandomMessageGenerator.git"
+  },
+  "author": "Wesley H.G. Coburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wes-Coburn/RandomMessageGenerator/issues"
+  },
+  "homepage": "https://github.com/Wes-Coburn/RandomMessageGenerator#readme"
+}
