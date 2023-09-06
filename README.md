@@ -1,2 +1,2 @@
 # Random Message Generator
-## A CodeAcademy Project
+A simple JavaScript app that randomly generates messages.
